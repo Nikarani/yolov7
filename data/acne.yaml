@@ -1,5 +1,6 @@
-train: ../dataset/images/train
-val: ../dataset/images/val
+train: C:/Users/LENOVO/acne-detection/dataset/acne/train/images
+val: C:/Users/LENOVO/acne-detection/dataset/acne/valid/images
+test: C:/Users/LENOVO/acne-detection/dataset/acne/test/images
 
 nc: 1
-names: ['acne']
+names: ["acne"]
